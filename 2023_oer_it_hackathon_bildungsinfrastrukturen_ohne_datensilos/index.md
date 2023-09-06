@@ -1,4 +1,6 @@
-# Lightning Talk: Bildungsinfrastrukturen ohne Datensilos? - Ein Vorschlag zur Nutzung dezentraler Social Media Protokolle in Bildungsinfrastrukturen
+Bildungsinfrastrukturen ohne Datensilos? 
+
+Ein Vorschlag zur Nutzung dezentraler Social Media Protokolle in Bildungsinfrastrukturen
 
 ---
 
@@ -22,7 +24,7 @@ Was machen WLO, Twillo und Mundo, NBP?
 
 ---
 
-![walled-garden-doors.png](./assets/walled-garden-doors_1692532900694_0.png)
+![](./assets/walled-garden-doors_1692532900694_0.png){width=50%}
 
 ---
 
@@ -91,30 +93,31 @@ Vorschlag: Nutzung dezentraler Social Media Protokolle ➡️ Nostr FTW
 ---
 
 Nostr kann:
-	  🫂 Soziale Interkationen (kryptografisch signiert)  
-	  💌 Verschlüsselte Nachrichten  
-	  👨🏾‍🤝‍👨🏼👨🏾‍🤝‍👨🏼👨🏾‍🤝‍👨🏼 Gruppen (+ Moderation)  
-	  📜 Long-Form Posts (Markdown)  
-	  🖋️ Kollaborative Annotationen  
-	  📺 Live Activites (e.g. Streaming)  
-	  🌎 Geodaten  
-	  🥇 Badges  
-	  📁 Dateimetadaten  
-	  💸 Payments  
-	  🛒 Marketplaces  
-	    
-	  🔗 (Linked Data?)  
-	  ...  
+
+🫂 Soziale Interkationen (kryptografisch signiert)  
+💌 Verschlüsselte Nachrichten  
+👨🏾‍🤝‍👨🏼👨🏾‍🤝‍👨🏼👨🏾‍🤝‍👨🏼 Gruppen (+ Moderation)  
+📜 Long-Form Posts (Markdown)  
+🖋️ Kollaborative Annotationen  
+📺 Live Activites (e.g. Streaming)  
+🌎 Geodaten  
+🥇 Badges  
+📁 Dateimetadaten  
+💸 Payments  
+🛒 Marketplaces  
+   
+🔗 (Linked Data?)  
+...  
 
 ---
 
 Lasst uns Plattformen ohne Datensilos bauen
-	  Lasst uns Wettbewerb ermöglichen  
-	    
-	  **"Developers, tear down this wall" - PabloF7z, 08.08.2023**  
+
+Lasst uns Wettbewerb ermöglichen  
+   
+**"Developers, tear down this wall" - PabloF7z, 08.08.2023**  
 
 ---
 
 https://nostr.how
-	  https://coracle.social/notes  
-Die Datensilos im Bereich OER fördern keinen Wettbewerb, sondern sind immer noch auf bestehende Netzwerk Effekte gerichtet.
+ https://coracle.social/notes  
