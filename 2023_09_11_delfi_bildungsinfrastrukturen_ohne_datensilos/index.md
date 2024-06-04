@@ -36,8 +36,8 @@ Was machen WLO, Twillo und Mundo, NBP?
 
 ---
 
-➡️ Bildungsplattforminitiativen fördern den Bau neuer Datensilos: 	    
-	  
+➡️ Bildungsplattforminitiativen fördern den Bau neuer Datensilos:
+
 Silos der Nutzerdaten  
 
 ---
@@ -122,4 +122,4 @@ Lasst uns Wettbewerb ermöglichen
 ---
 
 https://nostr.how
- https://coracle.social/notes  
+https://coracle.social/notes  
